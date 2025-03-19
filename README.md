@@ -31,7 +31,7 @@ The network includes the following components:
 - **RODC:** Located in a remote branch for secure replication.
 
 ### Device and IP Address Table:
-https://github.com/mahmoudaboseba/windows_server_project/blob/main/IPs%20and%20users
+![IP Address](https://github.com/mahmoudaboseba/windows_server_project/blob/main/IPs%20and%20users)
 
 ## Implementation Steps
 
